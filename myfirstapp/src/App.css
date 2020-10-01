@@ -1,0 +1,46 @@
+.formulaire{
+  width: 450px !important;
+  margin-top: 70px;
+}
+body{
+  background-image:url(images/OLDG3Y0.jpg);
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  
+}
+.club{
+  color:green;
+font-style: italic;
+text-align: center;
+font-weight: bolder;
+padding: 30px;
+}
+ .inscrit{
+  margin-top: 50px;
+  color: green;
+  font-style: italic;
+  padding-left: 50px;
+  
+
+}
+
+
+
+
+
+.label0{
+  font-weight: bold;
+}
+.label00{
+  text-align: center;
+  font-weight: bold;
+
+  font-style: italic;
+}
+.label01{
+  margin-right: 10px;
+}
+.btn{
+  margin-right: 10px;
+}
+
